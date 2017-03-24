@@ -10,8 +10,8 @@ import java.sql.SQLException;
  */
 public class DatabaseConnection {
     String url="jdbc:mysql://localhost:3306/student";
-    String user="root";
-    String password="1122";
+    String user=" "; //database username
+    String password=" "; //database password
     Connection connection= null;//yu null kina rakheko ani yesley k garcha?
     // answer: object initialize garcha..class ko tala ko dubai method ma use garna milcha tesaile. bhitra method ma initialize
     // gareko bhaye arko method le access garna milthena tesaile.
