@@ -1,0 +1,22 @@
+#quizForm{
+text-align: center;
+    margin: 50px;
+    background-color:white;
+}
+#listTable{
+
+}
+#quizSubmit{
+    background-color: white;
+    margin-top:10px;
+}
+#quizPlayBtn{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+#quizbutton{
+    margin-top: 20px;
+    /* padding: 31px; */
+    float: left;
+}

@@ -1,0 +1,42 @@
+#listTable{
+    table-border-color-dark: #3dfff7;
+    background-color:white;
+    width: 100%;
+    table-layout: auto;
+    border-collapse: collapse;
+
+}
+#up{
+    color: #286090;
+    background-color:white;
+    height:50px;
+
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+#down{
+    color:black;
+    background-color:white;
+}
+td {
+    height: 50px;
+    vertical-align: bottom;
+    text-emphasis:blue;
+}
+h2{
+    color:white;
+    background-color:#337ab7;
+
+    text-align: center;
+    margin: 10px;
+
+
+}
+#tableWrapper{
+    margin: 10px;
+}
+
+

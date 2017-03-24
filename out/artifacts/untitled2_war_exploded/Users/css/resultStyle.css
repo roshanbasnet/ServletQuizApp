@@ -1,0 +1,47 @@
+.correct{
+   background-color:darkseagreen;
+}
+.incorrect{
+    background-color:red;
+}
+
+#result1{
+    text-align: center;
+    background-color:white;
+
+}
+
+.ulist{
+    color: white;
+    margin-left: 522px;
+    margin-right: 522px;
+}
+#Form{
+    text-align: center;
+
+
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+    background-color:white;
+}
+#resultshow{
+    alignment:center;
+    text-align: center;
+}
+#info{
+    margin: 50px;
+    alignment: center;
+}
+#correct{
+    background-color: green;
+
+}
+#wrong{
+    background-color:red;
+}
+#scorecard{
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
